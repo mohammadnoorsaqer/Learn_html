@@ -1,0 +1,136 @@
+
+.table_one
+{
+    border: 1px solid black;
+    
+}
+.table_one thead th
+{
+    border: 1px solid black;
+}
+.table_one tbody td
+{
+    border: 1px solid black;
+}
+.table_two
+{
+    border: 1px solid black;
+    padding: 20px;
+}
+.table_two thead th
+{
+        border: 1px solid black;
+        margin-left: 2rem;
+        margin-top: 1rem;
+        padding: 10px;
+}
+.table_two tbody td
+{
+    border: 1px solid black;
+    padding: 15px;
+}
+.table_three
+{
+    margin-top: 1rem;
+    border: 1px solid black;
+    padding: 20px 20px 20px 20px;
+}
+.table_three tbody td
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+.table_four
+{
+    border: 1px solid black;
+    padding: 15px;
+    margin-top: 1rem;
+}
+.table_four tbody td
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+.table_four thead th
+{
+    border: 1px solid black;
+    padding: 25px;
+}
+.table_three
+{
+    margin-top: 1rem;
+    border: 1px solid black;
+    padding: 20px 20px 20px 20px;
+}
+.table_three tbody td
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+.table_five
+{
+    border: 1px solid black;
+    padding: 15px;
+    margin-top: 1rem;
+}
+.table_five tbody td
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+.table_five thead th
+{
+    border: 1px solid black;
+    padding: 25px;
+}
+.table_six
+{
+    border: 1px solid black;
+    padding: 15px;
+    border-collapse: collapse;
+}
+.table_six thead th
+{
+    border: 1px solid black;
+    padding: 25px;
+}
+.table_six tbody td
+{
+    border: 1px solid black;
+    padding: 25px;
+}
+.table_seven 
+{
+    border: 1px solid black;
+    margin-top: 1rem;
+    width: 30%
+}
+.table_seven  tbody td
+{
+    border: 1px solid black;
+}
+.table_seven  thead th
+{
+    border: 1px solid black;
+    width: 20%;
+}
+.last_table
+{
+    margin-top: 1rem;
+    border: 1px solid black;
+    width: 20%;
+
+}
+.last_table tr td
+{
+   
+    border: 1px solid black;
+   
+
+}
+.last_table img
+{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
