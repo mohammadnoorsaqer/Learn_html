@@ -1,0 +1,85 @@
+*
+
+.ps4 img
+{
+    width: 70px;
+    height: 70px;
+
+}
+.ps5 img
+{
+    width: 70px;
+    height: 70px;
+}
+.box
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    flex-direction: column;
+    width: fit-content;
+    margin: auto;
+}
+.box img
+{
+    width: 100px;
+    height: 100px;
+
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: red;
+}
+.large-paragraph
+{
+    display: inline-block;
+    margin-top: 1rem;
+    border: 1px solid black;
+}
+.small-paragraph
+{
+
+    margin-top: 1rem;
+    border: 1px solid black;
+}
+.small-paragraph .img
+{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    gap: 2px;
+}
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.jewl img
+{
+    width: 150px;
+    height: 150px;
+    margin-left: 1rem;
+}
+.quartz img
+{
+    width: 90px;
+    height: 90px;
+}
+.basketball-hyperlink
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.basketball-hyperlink img
+{
+    width: 150px;
+    height: 150px;
+}

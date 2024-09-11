@@ -1,0 +1,60 @@
+.flowers img
+{
+height: 150px;
+width: 150px;
+}
+.fish img
+{
+    height: 150px;
+    width: 150px;
+}
+.icons img
+{
+    height: 150px;
+    width: 150px;
+}
+.icons .images .css
+{
+    position: relative;
+    top: 2rem;
+    height: 130px;
+    width: 130px;
+}
+.icons .images .js
+{
+    position: relative;
+    top: 3rem;
+    height: 100px;
+    width: 100px;
+}
+.footer img
+{
+    height: 200px;
+    width: 200px;
+}
+.images-1 img
+{
+    height: 200px;
+    width: 200px;
+}
+.images-1 .food
+{
+    height: 150px;
+    width: 150px;
+}
+.images-1 .rome
+{
+    height: 100px;
+    width: 100px;
+}
+.programmer
+{
+    height: 200px;
+    width: 200px;
+}
+footer
+{
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}
