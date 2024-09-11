@@ -18,12 +18,20 @@
         border: 1px solid black;
         text-align: center;
     }
+    td:not(:first-child) {
+    color: gray;
+    font-size: 12px;
+}
 
     th
     {
         font-weight: bold;
         border: 1px solid black;
         text-align: center;
+    }
+    .routine
+    {
+        border-collapse: collapse;
     }
 </style>
 <body>
@@ -65,7 +73,7 @@
                 <td>Sleep</td>
             </tr>
             <tr>
-                <td colspan="3">
+                <td colspan="3" style="color: gray; font-size: 12px; padding: 10px;">
                     and that's what i do everyday,5 days a week .just eat,sleep,code ...and recharge
                 </td>
             </tr>
