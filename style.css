@@ -6,7 +6,7 @@
 }
 body
 {
-    height: 100vh;
+    margin-left: 4rem;
 }
 .pic
 {
@@ -28,4 +28,18 @@ body
 {
  color: blueviolet;
 
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+}
+hr
+{
+    padding: 3px;
+    background-color: #786666;
+    margin: 3px;
 }
