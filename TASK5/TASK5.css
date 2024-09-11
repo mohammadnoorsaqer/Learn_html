@@ -1,0 +1,201 @@
+.basic {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    width: 100px;
+    margin-right: 10px; 
+    font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.form-group textarea {
+    resize: vertical;
+    height: 100px;
+}
+
+.form-group input[type="button"] {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.form-group input[type="button"]:hover {
+    background-color: #0056b3;
+}
+.advanced
+{
+    margin: 0 auto;
+}
+.advanced #text1
+{
+width: 226px;
+height: 116px;
+}
+.intermediate
+{
+    width: 500px;
+    border: 1px solid black;
+    margin-left: 1rem;
+}
+.intermediate .form
+{
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.intermediate .form #text5
+{
+    height: 48px;
+    width: 161px;
+}
+
+.intermediate .form.form1
+{
+    display: flex;
+    flex-direction: column;
+}
+.table_form
+{
+    border: 1px solid black;
+    width: fit-content;
+    margin-top: 1rem;
+    
+}
+.table_form table
+{
+    border-collapse: collapse;
+}
+.table_form thead th
+{
+    border: 1px solid black;
+}
+.table_form tbody td
+{
+    border: 1px solid black;
+}
+.table_form tfoot td
+{
+    border: 1px solid black;
+}
+.table_form input[type="button"]
+{
+    padding: 5px;
+}
+.table_form input[type="password"]
+{
+    padding: 5px;
+    margin: 3px;
+}
+.table_form input[type="email"]
+{
+    padding: 5px;
+    margin: 3px;
+}
+.master .form
+{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+.master .form input::placeholder {
+    color: black; 
+    font-weight: 700;
+}
+#submit_form
+{
+    width: fit-content;
+}
+.master_table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.master_table th, .master_table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.master_table th {
+    background-color: #f2f2f2;
+}
+
+.gray-background {
+    background-color: gray;
+
+}
+.contact-us .forms
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.field
+{
+    border: 1px solid black;
+    width: fit-content;
+}
+.reg-form
+{
+   width: 40%;
+   margin-top: 1rem;
+}
+.reg-form table
+{
+border: 1px solid black;
+}
+.reg-form table thead th
+{
+border: 1px solid black;
+text-align: center;
+font-weight: 700;
+}
+.reg-form table tbody td
+{
+    border: 1px solid black;
+}
+.reg-form table #submit_option
+{
+    padding: 15px;
+}
+.box
+{
+    background-color:rgb(69, 35, 108);
+    margin: auto;
+    width: fit-content;
+}
+.box h3
+,
+h4
+{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box .box-form
+{
+    background-color:rgb(24, 10, 40);
+}
