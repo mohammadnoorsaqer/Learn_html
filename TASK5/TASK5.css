@@ -184,18 +184,15 @@ font-weight: 700;
 }
 .box
 {
-    background-color:rgb(69, 35, 108);
-    margin: auto;
-    width: fit-content;
+    background-color: rgb(59, 34, 59);
 }
-.box h3
-,
-h4
+.box h3,h4
 {
     color: white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
-.box .box-form
+.box .card
 {
-    background-color:rgb(24, 10, 40);
+    background-color: darkmagenta;
 }
