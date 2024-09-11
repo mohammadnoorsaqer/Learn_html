@@ -185,6 +185,9 @@ font-weight: 700;
 .box
 {
     background-color: rgb(59, 34, 59);
+    width: 450px;
+    height: auto;
+    margin: auto;
 }
 .box h3,h4
 {
@@ -195,4 +198,30 @@ font-weight: 700;
 .box .card
 {
     background-color: darkmagenta;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 350px;
+    height: auto;
+    margin-left: 1rem;
+}
+.box .card .card-form
+{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: 1rem;
+}
+.box .card .card-form label
+{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card-form .endofform
+{
+    color: white;
+    background: limegreen;
+    /* border-radius: 7px; */
+    border: none;
+    cursor: pointer;
 }
